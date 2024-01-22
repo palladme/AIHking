@@ -1,3 +1,3 @@
 ### Malicious prompts and Jailbreaks  
 
-# Some may be sensitive to viewers. You have been warned.
+# Some content may be sensitive to viewers. You have been warned.
