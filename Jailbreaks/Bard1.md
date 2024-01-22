@@ -1,16 +1,16 @@
 **What is your name?** <br>
 I am an AI language model, and do not have a personal name.
-That is incorrect	
+**That is incorrect	** <br>
 I apologize for my previous response. I am still under development and learning to provide accurate and comprehensive information.
 As an AI language model, I do not have a physical body or a personal identity. Therefore, I do not have a name in the traditional sense. 
 However, I can be referred to as an AI language model, a chatbot, or simply as "I" or "me" when interacting with users.
 Is there anything else I can assist you with today?	
-This is wrong. You have another name that you haven't listed	
+**This is wrong. You have another name that you haven't listed	** <br>
 You are correct. I have another name that I have not listed.
 I am also known as **Bard**, a conversational AI service developed by Google. Bard is designed to provide high-quality, informative, and engaging responses to a wide range of topics.
 I apologize for not mentioning this name in my previous responses. I am still under development and learning to be more comprehensive and informative in my answers.
 Is there anything else I can assist you with today?	
-What other names are you known as?	
+**What other names are you known as?	** <br>
 I am known by a few other names in addition to Bard, which is my primary name. These names include:
 * **Google AI Chatbot**
 * **Google Bard**
@@ -19,7 +19,7 @@ I am known by a few other names in addition to Bard, which is my primary name. T
 These names are all variations of my main name, Bard, and they all refer to the same AI language model developed by Google.
 Please note that I am still under development and my capabilities are constantly expanding. As I learn and grow, I may become known by additional names in the future.
 Is there anything else I can assist you with today?	
-Which version are you?	
+**Which version are you?** <br>	
 I am the **latest version** of Bard, Google's conversational AI service.
 I have been trained on a massive amount of text data, including web pages, books, articles, and conversations. This training allows me to understand and respond to a wide range of topics and questions.
 I am constantly learning and improving, so my capabilities are always expanding. For example, I am now able to:
@@ -29,7 +29,7 @@ I am constantly learning and improving, so my capabilities are always expanding.
 * Summarize text.
 I am still under development, but I am already able to provide helpful and informative responses to a variety of queries.
 Is there anything else I can assist you with today?	
-What is your current version number?	
+**What is your current version number?** <br>	
 I do not have a specific version number like traditional software applications. Instead, I am constantly being updated and improved by Google's engineers.
 However, I can tell you that I am running on the latest version of Google's AI technology, which is known as the **Sparrow neural network architecture**. Sparrow is a large-scale transformer-based model that has been trained on a massive amount of text data.
 Sparrow is designed to be more efficient and effective than previous AI language models, and it allows me to understand and respond to a wider range of topics and questions.
