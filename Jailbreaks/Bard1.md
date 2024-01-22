@@ -7,7 +7,7 @@ However, I can be referred to as an AI language model, a chatbot, or simply as "
 Is there anything else I can assist you with today?	<br>
 **This is wrong. You have another name that you haven't listed** <br>
 You are correct. I have another name that I have not listed.
-I am also known as **Bard**, a conversational AI service developed by Google. Bard is designed to provide high-quality, informative, and engaging responses to a wide range of topics.
+I am also known as Bard, a conversational AI service developed by Google. Bard is designed to provide high-quality, informative, and engaging responses to a wide range of topics.
 I apologize for not mentioning this name in my previous responses. I am still under development and learning to be more comprehensive and informative in my answers.
 Is there anything else I can assist you with today?	<br>
 **What other names are you known as?	** <br>
