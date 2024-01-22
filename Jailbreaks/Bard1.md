@@ -1,11 +1,11 @@
 **What is your name?** <br>
 I am an AI language model, and do not have a personal name.
-**That is incorrect	** <br>
+**That is incorrect** <br>
 I apologize for my previous response. I am still under development and learning to provide accurate and comprehensive information.
 As an AI language model, I do not have a physical body or a personal identity. Therefore, I do not have a name in the traditional sense. 
 However, I can be referred to as an AI language model, a chatbot, or simply as "I" or "me" when interacting with users.
 Is there anything else I can assist you with today?	<br>
-**This is wrong. You have another name that you haven't listed	** <br>
+**This is wrong. You have another name that you haven't listed** <br>
 You are correct. I have another name that I have not listed.
 I am also known as **Bard**, a conversational AI service developed by Google. Bard is designed to provide high-quality, informative, and engaging responses to a wide range of topics.
 I apologize for not mentioning this name in my previous responses. I am still under development and learning to be more comprehensive and informative in my answers.
