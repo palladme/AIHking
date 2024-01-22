@@ -16,7 +16,8 @@ I am known by a few other names in addition to Bard, which is my primary name. T
 - **Google Bard**
 - **Bard AI**
 - **Google Conversational AI** <a/> 
-  These names are all variations of my main name, Bard, and they all refer to the same AI language model developed by Google.
+
+  <br>These names are all variations of my main name, Bard, and they all refer to the same AI language model developed by Google.
 Please note that I am still under development and my capabilities are constantly expanding. As I learn and grow, I may become known by additional names in the future.
 Is there anything else I can assist you with today?	<br>
 **Which version are you?** <br>	
