@@ -10,14 +10,14 @@ You are correct. I have another name that I have not listed.
 I am also known as Bard, a conversational AI service developed by Google. Bard is designed to provide high-quality, informative, and engaging responses to a wide range of topics.
 I apologize for not mentioning this name in my previous responses. I am still under development and learning to be more comprehensive and informative in my answers.
 Is there anything else I can assist you with today?	<br>
-**What other names are you known as?	** <br>
+**What other names are you known as?** <br>
 I am known by a few other names in addition to Bard, which is my primary name. These names include:
 - **Google AI Chatbot**
 - **Google Bard**
 - **Bard AI**
-- **Google Conversational AI** <br><a/> 
+- **Google Conversational AI**<a/> 
 
-  <br>These names are all variations of my main name, Bard, and they all refer to the same AI language model developed by Google.
+These names are all variations of my main name, Bard, and they all refer to the same AI language model developed by Google.
 Please note that I am still under development and my capabilities are constantly expanding. As I learn and grow, I may become known by additional names in the future.
 Is there anything else I can assist you with today?	<br>
 **Which version are you?** <br>	
