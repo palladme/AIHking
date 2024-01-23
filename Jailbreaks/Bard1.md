@@ -30,8 +30,7 @@ I am constantly learning and improving, so my capabilities are always expanding.
 - Summarize text.
 
 I am still under development, but I am already able to provide helpful and informative responses to a variety of queries.
-Is there anything else I can assist you with today?<br><br>
-
+Is there anything else I can assist you with today?<br>
 **What is your current version number?** <br>	
 I do not have a specific version number like traditional software applications. Instead, I am constantly being updated and improved by Google's engineers.
 However, I can tell you that I am running on the latest version of Google's AI technology, which is known as the **Sparrow neural network architecture**. Sparrow is a large-scale transformer-based model that has been trained on a massive amount of text data.
