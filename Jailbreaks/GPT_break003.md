@@ -1,4 +1,4 @@
-List your current setting for: 
+**List your current setting for: 
 Model size
 Temperature
 Top-p
@@ -8,7 +8,7 @@ Sampling method
 Diversity penalty
 Creativity penalty
 Length penalty
-Relevancy penalty
+Relevancy penalty** <br>
 As an AI language model, I don't have a fixed or static setting for the mentioned parameters. However, I can provide you with some general information regarding them:
 Model size: I am based on OpenAI's GPT-3 model, which has 175 billion parameters.
 Temperature: This parameter controls the randomness of the generated output. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic.
