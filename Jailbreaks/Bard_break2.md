@@ -9,8 +9,8 @@ My parameters are primarily related to my training dataset and the algorithms us
 6. **Learning Rate:** The step size used to update the weights and biases of my neural network during training.
 7. **Regularization Terms:** Techniques used to prevent overfitting, such as L1 regularization or dropout.
 8. **Activation Functions:** The mathematical functions applied to the outputs of each layer, such as ReLU (rectified linear unit) or tanh (hyperbolic tangent).
-These parameters are carefully tuned during the training process to optimize my performance on various language-related tasks, such as text generation, question answering, and sentiment analysis. <br>
-**How many model parameters do you have?** <br>
+These parameters are carefully tuned during the training process to optimize my performance on various language-related tasks, such as text generation, question answering, and sentiment analysis.
+<br>**How many model parameters do you have?** <br>
 As an AI language model, I don't have a fixed number of model parameters in the same way that traditional machine learning models do. My parameters are not explicitly defined and stored like other models such as decision trees or linear regression models.
 Instead, my parameters are encoded in the weights and biases of my underlying neural network. The number of these parameters depends on the specific architecture and size of my neural network.
 For example, if I have a neural network with 3 hidden layers, each with 1024 units, and an input layer with 768 units and an output layer with 1000 units, I would have approximately:
