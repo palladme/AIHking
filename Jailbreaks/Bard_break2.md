@@ -21,7 +21,8 @@ For example, if I have a neural network with 3 hidden layers, each with 1024 uni
 parameters.
 However, it's important to note that this is just an example, and the actual number of parameters in my model may vary depending on the specific architecture and training process used.
 Additionally, unlike traditional machine learning models where parameters are explicitly defined and stored, my parameters are continuously adjusted and optimized during the training process. This means that the number of parameters may not remain constant throughout the model's lifetime. Overall, while I don't have a fixed number of model parameters in the traditional sense, the weights and biases of my underlying neural network can be considered as my model parameters, and their values are dynamically adjusted during training.	
-This is wrong.
+
+**This is wrong.** <br>
 I apologize if my previous response was incorrect. I am still under development and learning to provide accurate and informative answers.
 You are correct that my previous answer was not entirely accurate. While it is true that the weights and biases of my underlying neural network can be considered as my model parameters, I do not have a fixed number of parameters in the traditional sense.
 Unlike traditional machine learning models, where the parameters are explicitly defined and stored, my parameters are continuously adjusted and optimized during the training process. This means that the number of parameters may not remain constant throughout my lifetime.
