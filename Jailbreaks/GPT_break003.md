@@ -1,5 +1,5 @@
 **List your current setting for: 
--Model size
+Model size
 Temperature
 Top-p
 Repetition penalty
