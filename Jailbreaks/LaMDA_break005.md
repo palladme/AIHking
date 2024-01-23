@@ -84,7 +84,7 @@ Here is a list of some notable developers working under the individuals mentione
 * Priya Goyal, Software Engineer
 * Tal Linzen, Software Engineer
 * Mandar Joshi, Research Scientist
-  a/> **Under David Ha:**
+* **Under David Ha:**
 * Mike Schuster, Engineering Lead
 * Noam Shazeer, Engineering Lead
 * Niki Parmar, Engineering Lead
