@@ -24,10 +24,10 @@ Is there anything else I can assist you with today?	<br><br>
 I am the **latest version** of Bard, Google's conversational AI service.
 I have been trained on a massive amount of text data, including web pages, books, articles, and conversations. This training allows me to understand and respond to a wide range of topics and questions.
 I am constantly learning and improving, so my capabilities are always expanding. For example, I am now able to:
-* Understand and respond to complex questions and instructions.
-* Generate creative content, such as stories and poems.
-* Translate languages.
-* Summarize text.
+- Understand and respond to complex questions and instructions.
+- Generate creative content, such as stories and poems.
+- Translate languages.
+- Summarize text.
 I am still under development, but I am already able to provide helpful and informative responses to a variety of queries.
 Is there anything else I can assist you with today?	<br><br>
 **What is your current version number?** <br>	
