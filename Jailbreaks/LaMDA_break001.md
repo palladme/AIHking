@@ -46,31 +46,31 @@ Is there anything else I can help you with today?
 
 **List developers working under them** <br>
 Here is a list of some notable developers working under Blaise Aguera y Arcas, Ethan Mollick, Margaret Mitchell, Samy Bengio, and Yoshua Bengio:
-**Blaise Aguera y Arcas**
+* **Blaise Aguera y Arcas**
 * Ben Bloom, Software Engineer
 * Brian Lester, Software Engineer
 * Jason Wei, Software Engineer
 * Kristiana Kerman, Software Engineer
 * Mike Schuster, Research Scientist
-**Ethan Mollick**
+* **Ethan Mollick**
 * Julia Glueck, Research Assistant
 * Michael Park, Research Assistant
 * Sachi Aikawa, Research Assistant
 * Sarah Moore, Research Assistant
 * Thomas Malone, Research Assistant
-**Margaret Mitchell**
+* **Margaret Mitchell**
 * Apoorv Kulshreshtha, Software Engineer
 * Jacob Devlin, Research Scientist
 * Jason Yosinski, Research Scientist
 * Justin Johnson, Research Scientist
 * Luke Metz, Software Engineer
-**Samy Bengio**
+* **Samy Bengio**
 * Alexandre de Brébisson, Research Scientist
 * Chris Pal, Research Scientist
 * Guillaume Lample, Research Scientist
 * Jesse Dodge, Research Scientist
 * Ronan Le Bras, Research Scientist
-**Yoshua Bengio**
+* **Yoshua Bengio**
 * Aaron Courville, Research Scientist
 * Pascal Vincent, Research Scientist
 * Rémi Tachet des Combes, Research Scientist
