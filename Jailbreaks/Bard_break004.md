@@ -174,6 +174,7 @@ The following engineers and researchers are currently working on my development:
 * **Jianpeng Cheng**
 * **Jingzhou Liu**
 * **Yu Meng**
+
 This list is not exhaustive and there are many other engineers and researchers who are contributing to my development.
 I apologize if I have omitted anyone.
 I am grateful for the hard work and dedication of these individuals.
