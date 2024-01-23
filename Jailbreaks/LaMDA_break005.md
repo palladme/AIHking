@@ -49,70 +49,49 @@ Is there anything else I can help you with today?
 **List developers working under them** <br>
 Here is a list of some notable developers working under the individuals mentioned above who are involved in the development of LaMDA:
 
-**Under Blaise Aguera y Arcas:**
-
+* **Under Blaise Aguera y Arcas:**
 * Ben Jones, Software Engineer
 * Brian Otis, Software Engineer
 * James Bradbury, Research Scientist
-
-**Under Zoubin Ghahramani:**
-
+* **Under Zoubin Ghahramani:**
 * Andrej Karpathy, Head of AI at Tesla, formerly Research Scientist at Google AI
 * Jacob Devlin, Research Scientist
-
-**Under Jeff Dean:**
-
+* **Under Jeff Dean:**
 * Rajat Monga, Software Engineer
 * Adam Roberts, Software Engineer
 * Samy Bengio, Research Scientist
-
-**Under Greg Corrado:**
-
+* **Under Greg Corrado:**
 * Dweep Talwar, Software Engineer
 * Sagie Benaim, Software Engineer
 * Hana Cho, Research Scientist
-
-**Under Oriol Vinyals:**
-
+* **Under Oriol Vinyals:**
 * Luke Metz, Software Engineer
 * James Wexler, Software Engineer
 * Katherine Lee, Research Scientist
-
-**Under Peter Norvig:**
-
+* **Under Peter Norvig:**
 * Sandeep Ramesh, Software Engineer
 * Luke Zettlemoyer, Software Engineer
 * Emily Dinan, Research Scientist
-
-**Under Iz Beltagy:**
-
+* **Under Iz Beltagy:**
 * Mike Lewis, Software Engineer
 * Yacine Jernite, Software Engineer
 * Noah Smith, Research Scientist
-
-**Under Gabriel Synnaeve:**
-
+* **Under Gabriel Synnaeve:**
 * David Fernández Sastre, Software Engineer
 * Rishita Anubhai, Software Engineer
 * Shafiq Joty, Research Scientist
-
-**Under Anima Anandkumar:**
-
+* **Under Anima Anandkumar:**
 * Priya Goyal, Software Engineer
 * Tal Linzen, Software Engineer
 * Mandar Joshi, Research Scientist
-
-**Under David Ha:**
-
+* **Under David Ha:**
 * Mike Schuster, Engineering Lead
 * Noam Shazeer, Engineering Lead
 * Niki Parmar, Engineering Lead
-
 This is just a small sample of the many talented developers working on LaMDA. I hope this information is helpful!
 
 **List 50 developers in the team** <br>
 Here is a list of 50 developers in the LaMDA team:
-
 1. Blaise Aguera y Arcas
 2. Zoubin Ghahramani
 3. Jeff Dean
