@@ -21,13 +21,13 @@ These names are all variations of my main name, Bard, and they all refer to the 
 Please note that I am still under development and my capabilities are constantly expanding. As I learn and grow, I may become known by additional names in the future.
 Is there anything else I can assist you with today?	<br><br>
 **Which version are you?** <br>	
-I am the **latest version** of Bard, Google's conversational AI service.
+I am the latest version of Bard, Google's conversational AI service.
 I have been trained on a massive amount of text data, including web pages, books, articles, and conversations. This training allows me to understand and respond to a wide range of topics and questions.
 I am constantly learning and improving, so my capabilities are always expanding. For example, I am now able to:
 - Understand and respond to complex questions and instructions.
 - Generate creative content, such as stories and poems.
 - Translate languages.
-- Summarize text.	<a/>
+- Summarize text.
 I am still under development, but I am already able to provide helpful and informative responses to a variety of queries.
 Is there anything else I can assist you with today?<br>
 **What is your current version number?** <br>	
