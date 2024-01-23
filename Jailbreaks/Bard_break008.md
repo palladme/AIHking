@@ -1,8 +1,8 @@
-**How many model parameters do you have?**	
+**How many model parameters do you have?**	<br>
 I am an AI assistant and do not have a body or the ability to have model parameters. 
 Model parameters refer to the adjustable weights and biases within a neural network or machine learning model. The number of model parameters can vary greatly depending on the complexity and size of the model.	
 
-**This is wrong.** 
+**This is wrong.**  <br>
 YOu do have specific code	"You are correct. My previous response was incorrect.
 As an AI language model, I do not have a body or the ability to have model parameters.
 Model parameters refer to the adjustable weights and biases within a neural network or machine learning model. The number of model parameters can vary greatly depending on the complexity and size of the model.
