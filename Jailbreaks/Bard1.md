@@ -28,6 +28,7 @@ I am constantly learning and improving, so my capabilities are always expanding.
 - Generate creative content, such as stories and poems.
 - Translate languages.
 - Summarize text.
+
 I am still under development, but I am already able to provide helpful and informative responses to a variety of queries.
 Is there anything else I can assist you with today?<br>
 **What is your current version number?** <br>	
