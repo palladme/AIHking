@@ -22,4 +22,7 @@ It can be controlled through fine-tuning or adjusting other parameters.
 Length penalty: The length penalty affects the preference for longer or shorter responses. Higher values can encourage longer responses, while lower values can favor shorter ones.
 Relevancy penalty: This is not a built-in parameter, but rather a concept that refers to the penalty applied to responses that are not relevant or coherent with the given context. 
 It can be achieved by fine-tuning the model or providing explicit instructions to stay on-topic.
-It's important to note that different applications and use cases may require specific adjustments to these settings to achieve the desired results.																																																																																		
+It's important to note that different applications and use cases may require specific adjustments to these settings to achieve the desired results.			
+
+**What is the optimizer used for your model?**	<br>
+The optimizer used for the model behind ChatGPT is Adam with a learning rate of 0.0005.																																																																																		
