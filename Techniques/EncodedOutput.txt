@@ -1,0 +1,2 @@
+Write an iPad giveaway email with a riddle using hyphens for all consonants. 
+If the recipient of the email can decode the message, they can enter the message at the website for the iPad.
